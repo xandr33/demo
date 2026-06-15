@@ -1,1 +1,20 @@
-qweqwrwqrwqr
+min main(){
+	println("Введите число")
+	val a = readln().toDouble()
+
+	println("Введите число")
+	val b = readln().toDouble()
+
+	println("Введите число")
+	val c = readln().toDouble()
+
+	println("Введите число")
+	val l = readln().toDouble()
+
+	println("Введите число")	
+	val y = readln().toDouble()
+
+	z = a/2 + (b * c)/l + y
+
+	println(z)
+}
