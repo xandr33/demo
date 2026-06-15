@@ -18,3 +18,5 @@ min main(){
 
 	println(z)
 }
+
+IntelliJ IDEA Community Edition 2024.1.4
